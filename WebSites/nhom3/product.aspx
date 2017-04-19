@@ -5,7 +5,7 @@
     <section>
          <div id="head">
             <div class="line">
-               <h1>QUẢN LÝ SẢN PHẨM</h1>
+               <h1> Ya hú ù ú u</h1>
             </div>
          </div>
          <div id="content">
